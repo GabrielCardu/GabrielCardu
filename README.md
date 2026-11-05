@@ -22,3 +22,25 @@ Atualmente estou cursando Biomedicina pela Uninter. Gosto de tecnologia, música
         />
     </a>
 </p>
+
+# 🤖 Linguagens
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+
+<img
+    align="left" 
+    alt="sql" 
+    title="sql"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+    
+          
+
+          
