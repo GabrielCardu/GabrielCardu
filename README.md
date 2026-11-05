@@ -1,6 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#11806A&height=120&section=header"/>
+# 👨🏻‍💻 Gabriel Cardoso
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Cardoso;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+**`Cientista de Dados`**
 
-### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+Me chamo Gabriel Cardoso, tenho 27 anos, sou natural do Amapá.
+Atualmente estou cursando Biomedicina pela Uninter. Gosto de tecnologia, música, ciência e política. Compartilho minhas ideias e rotina pela conta do Intagram: "[@gabrielcardu_](https://www.instagram.com/gabrielcardu_/)".
 
+<p 
+    </a> 
+    <a href="https://github.com/GabrielCardu?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/GabrielCardu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/GabrielCardu?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielCardu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
